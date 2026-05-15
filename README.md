@@ -71,4 +71,5 @@ streamlit run app.py
 This will open a new tab in your web browser with the fully functional interactive dashboard.
 
 ---
-*Created for the Data Visualization Internship Task.*
+or run:
+https://netflix-stratergy-dashboard-nhnptqjzuxvwqwnpksjddr.streamlit.app/
